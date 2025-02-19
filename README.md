@@ -1,5 +1,5 @@
 # Financial_analisys
-This repository contains two detailed financial analysis template using Excel, utilizing various formulas and functions :
+This repository contains a detailed financial analysis template using Excel, utilizing various formulas and functions :
 
 ##FORECASTING OF A START-UP
 
@@ -8,8 +8,3 @@ In this template there are detailkes data and calculations over traffic,revenue,
 Using detailed tables, numbers , calculations and formula the template is fready to use
 
 The visualizations make it easy to make decision in conclusion.
-
-##COMPAREBLE COMPANY(COMS)
-
-A strategic financial model , designed to support business-decision making and drive growth
- showing profitability assesment , key performance indicator anf financial statement projections.
